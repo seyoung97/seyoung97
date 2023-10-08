@@ -1,8 +1,10 @@
 <a href="https://velog.io/@seeyong_0" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=seyoungchung9050@gmail.com&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <!--
 **seyoung97/seyoung97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
