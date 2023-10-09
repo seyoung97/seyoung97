@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white"/> 
-</p>
 <br/> 
 <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=Sanity&logoColor=white"/>
 <br/> 
