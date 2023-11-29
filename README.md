@@ -10,7 +10,7 @@
 </p>
 <p>
   I'm <b>frontend devdloper.</b> I'm passionate about crafting delightful digital experiences through frontend development.<br/>
-  I specialize in React, CSS, and JavaScript, and I'm studying Next.js.<br/> 
+  I specialize in React, CSS, and JavaScript, and I'm studying algorithm, computer sience, and Next.js.<br/> 
 </p>
 
 ### Skills💪
