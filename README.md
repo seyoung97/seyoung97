@@ -10,9 +10,7 @@
 </p>
 <p>
   I'm <b>frontend devdloper.</b> I'm passionate about crafting delightful digital experiences through frontend development.<br/>
-  I specialize in React, CSS, and JavaScript, and I'm passionate about user-centric design.<br/> 
-  I love swimming, reading and having a nap with my cats 😴❤️🐱 <br/> 
-  I aspire to make all my dreams come true through coding.✨
+  I specialize in React, CSS, and JavaScript, and I'm studying Next.js.<br/> 
 </p>
 
 ### Skills💪
@@ -36,8 +34,6 @@
 <br/> 
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=Sanity&logoColor=white"/>
 </p>
 
 
